@@ -63,12 +63,12 @@ Each color channel is independently processed with:
 ###  Baboon Image (Noisy vs Filtered)
 | Input (5% S&P Noise) | Output |
 |----------------------|--------|
-| ![Baboon Noisy](./images/Baboon%20-%205%%20multicolor%20noise%20S%26P.jpg) | ![Baboon Clean](./images/Filtered%20Baboon.jpg) |
+| ![Baboon Noisy](./images/Baboon%20-%20noisy.jpg) | ![Baboon Clean](./images/Filtered%20Baboon.jpg) |
 
 ###  Lena Image (Noisy vs Filtered)
 | Input (5% S&P Noise) | Output |
 |----------------------|--------|
-| ![Lena Noisy](./images/Lena%20-%205%%20multicolor%20noise%20S%26P.jpg) | ![Lena Clean](./images/Filtered%20Lena.jpg) |
+| ![Lena Noisy](./images/Lena%20-%20noisy.jpg) | ![Lena Clean](./images/Filtered%20Lena.jpg) |
 
 ---
 
